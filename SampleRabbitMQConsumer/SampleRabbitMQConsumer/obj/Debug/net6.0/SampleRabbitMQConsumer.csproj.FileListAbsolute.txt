@@ -1,0 +1,17 @@
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\bin\Debug\net6.0\SampleRabbitMQConsumer.exe
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\bin\Debug\net6.0\SampleRabbitMQConsumer.deps.json
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\bin\Debug\net6.0\SampleRabbitMQConsumer.runtimeconfig.json
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\bin\Debug\net6.0\SampleRabbitMQConsumer.dll
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\bin\Debug\net6.0\SampleRabbitMQConsumer.pdb
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\obj\Debug\net6.0\SampleRabbitMQConsumer.csproj.AssemblyReference.cache
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\obj\Debug\net6.0\SampleRabbitMQConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\obj\Debug\net6.0\SampleRabbitMQConsumer.AssemblyInfoInputs.cache
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\obj\Debug\net6.0\SampleRabbitMQConsumer.AssemblyInfo.cs
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\obj\Debug\net6.0\SampleRabbitMQConsumer.csproj.CoreCompileInputs.cache
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\obj\Debug\net6.0\SampleRabbitMQConsumer.csproj.CopyComplete
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\obj\Debug\net6.0\SampleRabbitMQConsumer.dll
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\obj\Debug\net6.0\refint\SampleRabbitMQConsumer.dll
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\obj\Debug\net6.0\SampleRabbitMQConsumer.pdb
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\obj\Debug\net6.0\SampleRabbitMQConsumer.genruntimeconfig.cache
+C:\Users\VC\source\repos\SampleRabbitMQConsumer\SampleRabbitMQConsumer\obj\Debug\net6.0\ref\SampleRabbitMQConsumer.dll
